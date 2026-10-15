@@ -21,6 +21,7 @@ radius = 33.01515
 [node name="Bullet" type="CharacterBody2D" unique_id=1133219345]
 collision_layer = 2
 collision_mask = 2
+safe_margin = 6.0
 script = ExtResource("1_qratc")
 
 [node name="Sprite2D2" type="Sprite2D" parent="." unique_id=821907822]
